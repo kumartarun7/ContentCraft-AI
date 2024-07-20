@@ -15,12 +15,12 @@ export default function Home() {
         <img
           alt="logo"
           loading="lazy"
-          width={150}
-          height={150}
+          width={300}
+          height={300}
           decoding="async"
           data-nimg={1}
           style={{ color: "transparent" }}
-          src="/logo.png"
+          src="/logo.svg"
         />
       </div>
     </div>

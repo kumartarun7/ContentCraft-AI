@@ -56,7 +56,7 @@ useEffect(()=>{
 
     <div className='h-screen relative p-5 shadow-sm border bg-white'>
         <div className='flex justify-center'>
-        <Image src={'/logo.png'} alt='logo' width={120} height={100} />
+        <Image src={'/logo.svg'} alt='logo' width={240} height={200} />
         </div>
         <hr className='my-6 border'/>
 

@@ -57,7 +57,7 @@ const layout = ({
            
              <DesktopNav />
 
-            <Image src={'/logo.png'} alt='logo' width={80} height={60} className='m-5' />
+            <Image src={'/logo.svg'} alt='logo' width={80} height={60} className='m-5' />
 
             <div className='mx-3'>
               <SignedIn>
